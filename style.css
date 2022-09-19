@@ -1,0 +1,13 @@
+div {
+    display:block;
+    padding: 100px;
+    }
+  .red {
+    background-color:white;
+    }
+  .yellow {
+    background-color:blue;
+    }
+  .green {
+    background-color:red;
+    }
